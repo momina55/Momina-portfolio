@@ -1,0 +1,44 @@
+body{ 
+    background-color: #e0b1cb ;
+    text-align: center;
+    padding: 40px;
+    font-size: large;
+    font-style: italic;
+    
+    
+    
+   
+}
+hr{ 
+    width: 500px;
+    color: #0b090a
+
+
+}
+p{ 
+    text-align: left;
+    color: 522e38;
+    padding: 70px;
+    color: #44001a;
+}
+h2{ 
+    text-align: start;
+    color: aliceblue;
+    font-style: italic;
+}
+ .container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+  .image {
+    max-width: 100%
+  }
+  .image {
+    flex-basis: 40%
+  }
+  .text {
+    font-size: 20px;
+    padding-left: 20px;
+  }
+
